@@ -824,4 +824,22 @@
     padding-right: 10px;
   }
 }
+
+@media screen and (max-width: 405px) {
+  .subscribe-right form input {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .feedback-left .student-job {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  .taken-courses-feeback h6 {
+    font-size: 10px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
