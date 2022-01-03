@@ -827,7 +827,7 @@
 
 @media screen and (max-width: 405px) {
   .subscribe-right form input {
-    font-size: 10px;
+    font-size: 8px;
   }
 }
 
@@ -842,4 +842,6 @@
     font-size: 10px;
   }
 }
+
+
 /*# sourceMappingURL=main.css.map */
