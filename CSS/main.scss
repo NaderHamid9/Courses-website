@@ -836,9 +836,14 @@ img{
     }
 }
 @media screen and (max-width: 405px){
-    .subscribe-right form{
+   .subscribe-right form{
+       
       input{
-          font-size: 8px;
+          font-size: 10px;
+         
+      }
+      .sub-btn{
+          padding: 10px 0px;
       }
     }
 
